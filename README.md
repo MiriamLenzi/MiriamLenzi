@@ -19,7 +19,7 @@
   </a>
   
 
-<p><em> Cursando Analise e Desenvolvimento de Sistemas na Universidade Federal de Rondônia 😊</br>
+<p><em> Studying Systems Analysis and Development at the Federal University of Rondônia 😊</br>
 </em></p>
 
 
@@ -32,8 +32,8 @@
 >> "No..."
 >>> "Inheritance!"
 
-> "Por que o programador sempre tem frio?"
->> "Porque ele sempre abre todas as janelas!"
+> "Why is the programmer always cold?"
+>> "Because he always opens all the windows!"
 
 ---
 
